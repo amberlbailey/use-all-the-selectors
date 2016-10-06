@@ -25,3 +25,7 @@ h1 {
 h2 {
   color: #93a1a1;
 }
+
+.wrapper p:nth-child(5) {
+  background-color: #b58900
+}
