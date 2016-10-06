@@ -42,6 +42,6 @@ a[rel=external] {
   background-color: #2694d8
 }
 
-ol {
+ol li:first-child {
   color: #719e47;
 }
