@@ -51,11 +51,11 @@ ol li:last-child {
 }
 
 ol li:nth-child(odd) {
-  color:#657ba3;
+  color: #657ba3;
 }
 
 ol li:nth-child(even) {
-  color:#586e75;
+  color: #586e75;
 }
 
 .types > li:nth-child(odd) {
@@ -63,8 +63,7 @@ ol li:nth-child(even) {
 }
 
 .types > li:nth-child(even) {
-  background-color: #586e75;
-}
+  background-color: #586e75;s
 
 .types > li:nth-child(3n + 3) {
   background-color: #d04b16;
