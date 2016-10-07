@@ -63,8 +63,8 @@ ol li:nth-child(even) {
 }
 
 .types > li:nth-child(even) {
-  background-color: #586e75;s
+  background-color: #586e75;
 
-.types > li:nth-child(3n + 3) {
+.types > li:nth-child(3n+3) {
   background-color: #d04b16;
 }
