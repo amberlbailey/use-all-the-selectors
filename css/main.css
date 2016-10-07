@@ -39,7 +39,7 @@ mark {
 }
 
 a[rel=external] {
-  background-color: #2694d8
+  background-color: #2694d8;
 }
 
 ol li:first-child {
